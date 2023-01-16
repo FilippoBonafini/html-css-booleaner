@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+
+#intestazione{
+    background-image: url(../img/pattern.png) ;
+    background-color: #4ea0ff;
+    height: 190px;
+}
+
+#logo{
+    width: 400px;
+    height: 100px;
+    margin-top: 70px;
+    margin-left: 20px;
+}

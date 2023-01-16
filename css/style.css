@@ -8,7 +8,7 @@ body{
     height: 190px;
 }
 
-#logo{
+#logo{               /*logo*/
     width: 400px;
     height: 100px;
     margin-top: 70px;
@@ -22,7 +22,7 @@ body{
 
 .titolo{
     font-size: 40px;
-}
+}                             /*titolo e sottotitolo*/
 
 .sottotitolo{
     color: #848484 ;
@@ -46,14 +46,14 @@ body{
 }
 
 #lista-dis-1{
-    margin-top: 40px;
+    margin-top: 40px;       /*lista disordinata*/
     padding-left: 23px;
 }
 
 table{
-    border-spacing: 0;
+    border-spacing: 0;          /*tabella*/
     margin-left: 8px;
-    margin-top: 40px;
+    margin-top: 40px; 
 }
 
 #int-tab{
@@ -87,7 +87,7 @@ table{
     background-color: #b1e5f2;
 }
 
-#immagine-testo-1{
+#immagine-testo-1{          /*immagini finali*/
     width: 300px;
     height: 210px;
     background-image: url(../img/graph.jpg) ;

@@ -14,3 +14,25 @@ body{
     margin-top: 70px;
     margin-left: 20px;
 }
+
+.sezione{
+    margin: 8px;
+    margin-top: 15px;
+}
+
+.titolo{
+    font-size: 40px;
+}
+
+.sottotitolo{
+    color: #848484 ;
+}
+
+.autore{
+    color: #29ace6;
+}
+
+.data{
+    color: #848484 ; 
+    font-size: smaller;   
+}

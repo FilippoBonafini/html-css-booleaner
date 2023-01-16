@@ -50,6 +50,10 @@ body{
     padding-left: 23px;
 }
 
+table{
+    border-spacing: 0;
+}
+
 #int-tab{
     background-color:  #20a9e5;
 }

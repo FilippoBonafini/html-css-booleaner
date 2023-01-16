@@ -1,0 +1,21 @@
+main{
+    width: 80%;
+    margin: auto;
+    font-family: inconsolata ;
+}
+
+body{
+    margin: 0;
+}
+
+#intestazione{
+    background-color: rgb(158, 228, 255);
+
+}
+
+#logo{
+    height: 200px;
+    width: 68%;
+    margin: auto;
+    margin-top: 15px;
+}

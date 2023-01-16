@@ -2,6 +2,7 @@ main{
     width: 80%;
     margin: auto;
     font-family: inconsolata ;
+    font-size: 24px;
 }
 
 body{
@@ -9,7 +10,7 @@ body{
 }
 
 #intestazione{
-    background-color: rgb(158, 228, 255);
+    background-color: rgb(3, 130, 181);
 
 }
 
@@ -18,4 +19,47 @@ body{
     width: 68%;
     margin: auto;
     margin-top: 15px;
+}
+
+.titolo{
+    margin-top: 40px;
+    font-size: 60px;
+}
+
+.sottotitolo-container{
+    margin-bottom: 70px;
+    margin-top: 10px;
+}
+
+.data{
+    color: rgb(110, 110, 110);
+}
+
+.autore{
+    color: rgb(58, 58, 205);
+}
+
+.immagine-tim{
+    border: 10px solid rgb(3, 130, 181);
+    border-radius: 10px;
+    margin-left: 40px;
+}
+
+.info-foto-tim{
+    margin-left: 50px;
+    margin-top: 15px;
+    margin-bottom: 70px;
+    color: rgb(110, 110, 110);
+}
+
+.paragrafo{
+    border: 10px solid rgb(3, 130, 181);
+    border-radius: 10px;
+    padding: 13px;
+    margin-bottom: 70px;
+}
+
+.evidenziato{
+    background-color: rgb(3, 130, 181);
+    padding: 2px;
 }

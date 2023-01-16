@@ -2,6 +2,10 @@ body{
     margin: 0;
 }
 
+main{
+    margin: 8px;
+}
+
 #intestazione{
     background-image: url(../img/pattern.png) ;
     background-color: #4ea0ff;
@@ -52,7 +56,6 @@ body{
 
 table{
     border-spacing: 0;          /*tabella*/
-    margin-left: 8px;
     margin-top: 40px; 
 }
 

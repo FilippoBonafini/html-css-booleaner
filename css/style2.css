@@ -60,7 +60,7 @@ body{
 }
 
 .evidenziato{
-    color: aliceblue;
+    color: aliceblue ;
     background-color: rgb(3, 130, 181);
     padding: 2px;
 }
@@ -71,6 +71,7 @@ body{
     margin-bottom: 80px;
 }
 .list-item{
+    padding: 8px;
     margin-bottom: 30px;
     background-color: rgb(221, 154, 59);
 }
@@ -79,7 +80,9 @@ table{
     border-spacing: 0;          /*tabella*/
     margin-top: 40px; 
     margin-bottom: 80px;
-    border: 5px solid rgb(3, 130, 181);
+    border: 10px solid rgb(3, 130, 181);
+    border-radius: 10px;
+
 }
 
 tbody{
@@ -113,6 +116,17 @@ td{
     padding: 10px;
 }
 
-#riga-1{
-    border: 5px solid rgb(3, 130, 181);
+footer{
+    height: 300px;
+    background-color: rgb(3, 130, 181);
+    padding-left: 100px;
+    padding-top: 50px;
 }
+
+.sottotitolo{
+    font-size: 40px;
+    background-color: aliceblue;
+    padding: 20px;
+    color: rgb(3, 130, 181);
+}
+

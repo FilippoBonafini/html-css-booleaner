@@ -28,7 +28,7 @@ body{
 
 .sottotitolo-container{
     margin-bottom: 70px;
-    margin-top: 10px;
+    margin-top: 30px;
 }
 
 .data{
@@ -37,9 +37,10 @@ body{
 }
 
 .autore{
-    font-size: 50px;
+    font-size: 40px;
     color:rgb(221, 154, 59);
     background-color: aliceblue;
+    padding: 20px 5px;
 
 }
 

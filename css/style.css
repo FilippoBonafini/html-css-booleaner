@@ -52,6 +52,7 @@ body{
 
 table{
     border-spacing: 0;
+    margin-left: 8px;
 }
 
 #int-tab{

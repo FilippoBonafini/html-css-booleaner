@@ -10,6 +10,7 @@ main{
     background-image: url(../img/pattern.png) ;
     background-color: #4ea0ff;
     height: 190px;
+    background-size: 25%;
 }
 
 #logo{               /*logo*/

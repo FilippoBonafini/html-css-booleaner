@@ -1,3 +1,6 @@
+
+
+/* PRINCIPALE */
 main{
     width: 80%;
     margin: auto;
@@ -9,6 +12,9 @@ body{
     margin: 0;
 }
 
+
+
+/* INTESTAZIONI */
 #intestazione{
     background-color: rgb(3, 130, 181);
 
@@ -21,6 +27,8 @@ body{
     margin-top: 15px;
 }
 
+
+/* PARTE TITOLO E SOTTOTITOLO */
 .titolo{
     margin-top: 40px;
     font-size: 60px;
@@ -44,6 +52,8 @@ body{
 
 }
 
+
+/* IMMAGINI  */
 .immagine-tim{
     border: 10px solid rgb(3, 130, 181);
     border-radius: 10px;
@@ -57,6 +67,8 @@ body{
     color: rgb(110, 110, 110);
 }
 
+
+/* PARAGRAFO CON EVIDENZIATORE */
 .paragrafo{
     border: 10px solid rgb(3, 130, 181);
     border-radius: 10px;
@@ -70,6 +82,8 @@ body{
     padding: 2px;
 }
 
+
+/* LISTA */
 #lista-dis-1{
     width: 1000px;
     margin: auto;
@@ -81,8 +95,10 @@ body{
     background-color: rgb(221, 154, 59);
 }
 
+
+/* TABELLA */
 table{
-    border-spacing: 0;          /*tabella*/
+    border-spacing: 0;          
     margin-top: 40px; 
     margin-bottom: 80px;
     border: 10px solid rgb(3, 130, 181);
@@ -121,6 +137,8 @@ td{
     padding: 10px;
 }
 
+
+/* FOOTER  */
 footer{
     background-color: rgb(3, 130, 181);
     padding-left: 100px;
